@@ -6,7 +6,11 @@
 
 ## APP 预览
 
-![雷厉的主题中心](showcase/app.jpg)
+| 中文界面 | English UI |
+|---|---|
+| ![雷厉的主题中心中文界面](showcase/app-zh.jpg) | ![Leili Theme Center English UI](showcase/app-en.jpg) |
+
+APP 会自动跟随 macOS 系统语言，也可以随时点击顶部的 `中文 / EN` 按钮切换。
 
 ## 主题实际效果
 
@@ -27,7 +31,7 @@
 ## 下载与安装
 
 1. 安装并至少启动一次官方 Codex macOS 桌面端。
-2. 从 [Releases](https://github.com/Raven7979/Leili-Codex-Skin/releases/latest) 下载 `Leili-Codex-Skin-1.1.0.zip`。
+2. 从 [Releases](https://github.com/Raven7979/Leili-Codex-Skin/releases/latest) 下载 `Leili-Codex-Skin-1.1.1.zip`。
 3. 解压后双击“安装 Leili Codex Skin.command”；首次运行若被 macOS 拦截，请右键选择“打开”。
 4. 打开 `Leili Codex Skin.app`，在“雷厉的主题中心”选择主题并点击“应用主题”。
 5. 点击“启动主题版 Codex”进入主题界面；需要退出时点击“恢复官方界面”。
@@ -64,7 +68,7 @@ Leili Codex Skin is a local theme center for the Codex macOS desktop app. It let
 ### Install and use
 
 1. Install and launch the official Codex macOS app at least once.
-2. Download `Leili-Codex-Skin-1.1.0.zip` from [Releases](https://github.com/Raven7979/Leili-Codex-Skin/releases/latest).
+2. Download `Leili-Codex-Skin-1.1.1.zip` from [Releases](https://github.com/Raven7979/Leili-Codex-Skin/releases/latest).
 3. Unzip it and double-click `安装 Leili Codex Skin.command`. If macOS blocks it, right-click and choose **Open**.
 4. Open `Leili Codex Skin.app`, choose a theme, and click **应用主题 / Apply Theme**.
 5. Click **启动主题版 Codex / Launch Themed Codex**. Use **恢复官方界面 / Restore Official UI** whenever you want to return to the original interface.
@@ -72,6 +76,8 @@ Leili Codex Skin is a local theme center for the Codex macOS desktop app. It let
 Use **验证主题 / Verify Theme** to validate the active theme and create a verification screenshot. Use **检查主题更新 / Check Theme Updates** to check GitHub immediately.
 
 macOS 12 or later is supported. The app uses the signed Node.js runtime bundled with the official Codex app and does not redistribute the official app or runtime.
+
+The interface follows the macOS system language automatically. You can also switch languages at any time with the `中文 / EN` button at the top.
 
 ### Create your own theme
 

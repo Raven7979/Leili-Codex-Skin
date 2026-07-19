@@ -1,0 +1,11 @@
+.DS_Store
+*.zip
+dist/
+references/
+verification/
+assets/
+backups/
+themes/
+*screenshot*
+*截屏*
+*截图*

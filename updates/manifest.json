@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "themes": {
-    "version": "2026.07.19.1",
-    "publishedAt": "2026-07-19T14:16:12.692Z",
-    "notes": "雷厉主题包更新：新增主题并优化现有主题细节。",
-    "url": "https://github.com/Raven7979/Leili-Codex-Skin/releases/download/v1.1.1/Leili-Codex-Themes-2026.07.19.1.zip",
-    "sha256": "1bbc20262259e75b340dae9fe3161f1393d1827233b75ca47eea26d658b9ed65",
-    "sizeBytes": 11562306,
-    "themeCount": 6
+    "version": "2026.07.20.1",
+    "publishedAt": "2026-07-20T03:13:39.495Z",
+    "notes": "新增 10 套精选主题并完善中英文界面。10 curated themes added with complete Chinese and English UI.",
+    "url": "https://github.com/Raven7979/Leili-Codex-Skin/releases/download/v1.2.0/Leili-Codex-Themes-2026.07.20.1.zip",
+    "sha256": "262873db1afcc7e72abbb960a043b6f4303660ef0a931af1888802504fe1b7b8",
+    "sizeBytes": 24038414,
+    "themeCount": 16
   }
 }

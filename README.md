@@ -12,6 +12,8 @@
 
 APP 会自动跟随 macOS 系统语言，也可以随时点击顶部的 `中文 / EN` 按钮切换。
 
+`1.2.2` 新增 2560×1440 等高屏窗口适配：主题横幅会随可用高度平滑扩展，卡片和输入框保持在主要视觉区域；1080p 与紧凑窗口布局保持不变。
+
 ## 主题实际效果
 
 以下均为 Codex 实际运行界面截取。截图时侧边栏已在 Codex 内真实折叠，并已检查不包含私人对话、项目名称或文件路径。APP 下载包内共含 16 套主题，公开图库展示其中 15 套。
@@ -51,7 +53,7 @@ APP 会自动跟随 macOS 系统语言，也可以随时点击顶部的 `中文 
 ## 下载与安装
 
 1. 安装并至少启动一次官方 Codex macOS 桌面端。
-2. 从 [Releases](https://github.com/Raven7979/Leili-Codex-Skin/releases/latest) 下载 `Leili-Codex-Skin-1.2.1.zip`。
+2. 从 [Releases](https://github.com/Raven7979/Leili-Codex-Skin/releases/latest) 下载 `Leili-Codex-Skin-1.2.2.zip`。
 3. 解压后双击“安装 Leili Codex Skin.command”；首次运行若被 macOS 拦截，请右键选择“打开”。
 4. 打开 `Leili Codex Skin.app`，在“雷厉的主题中心”选择主题并点击“应用主题”。
 5. 点击“启动主题版 Codex”进入主题界面；需要退出时点击“恢复官方界面”。
@@ -90,7 +92,7 @@ The download currently includes 16 themes. The 15 public previews above were cap
 ### Install and use
 
 1. Install and launch the official Codex macOS app at least once.
-2. Download `Leili-Codex-Skin-1.2.1.zip` from [Releases](https://github.com/Raven7979/Leili-Codex-Skin/releases/latest).
+2. Download `Leili-Codex-Skin-1.2.2.zip` from [Releases](https://github.com/Raven7979/Leili-Codex-Skin/releases/latest).
 3. Unzip it and double-click `安装 Leili Codex Skin.command`. If macOS blocks it, right-click and choose **Open**.
 4. Open `Leili Codex Skin.app`, choose a theme, and click **应用主题 / Apply Theme**.
 5. Click **启动主题版 Codex / Launch Themed Codex**. Use **恢复官方界面 / Restore Official UI** whenever you want to return to the original interface.
@@ -100,6 +102,8 @@ Use **验证主题 / Verify Theme** to validate the active theme and create a ve
 macOS 12 or later is supported. The app uses the signed Node.js runtime bundled with the official Codex app and does not redistribute the official app or runtime.
 
 The interface follows the macOS system language automatically. You can also switch languages at any time with the `中文 / EN` button at the top.
+
+Version `1.2.2` adds adaptive layouts for tall displays such as 2560×1440. The hero grows with the available height while cards and the composer remain in the primary visual field; 1080p and compact layouts are unchanged.
 
 ### Create your own theme
 

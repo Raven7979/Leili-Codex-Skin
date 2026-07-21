@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "themes": {
-    "version": "2026.07.20.1",
-    "publishedAt": "2026-07-20T05:31:43.658Z",
-    "notes": "新增 10 套精选主题并完善中英文界面。10 curated themes added with complete Chinese and English UI.",
-    "url": "https://github.com/Raven7979/Leili-Codex-Skin/releases/download/v1.2.2/Leili-Codex-Themes-2026.07.20.1.zip",
-    "sha256": "8c079bf647b25ed6144c7956d003a4809c00fd1d2ba6bc31be8d5f75b8c014f9",
-    "sizeBytes": 24203287,
-    "themeCount": 16
+    "version": "2026.07.21.1",
+    "publishedAt": "2026-07-21T03:27:22.166Z",
+    "notes": "新增 Claude 原生主题、本机 Token 活动统计、区间筛选与动态像素宠物。Adds the Claude Native theme with local token activity, range filters, and an animated pixel pet.",
+    "url": "https://github.com/Raven7979/Leili-Codex-Skin/releases/download/v1.2.3/Leili-Codex-Themes-2026.07.21.1.zip",
+    "sha256": "12fddefea33f40e7174cd644c2d55caa90806509e169a49c7eaa3b1d2dc88226",
+    "sizeBytes": 24237239,
+    "themeCount": 17
   }
 }

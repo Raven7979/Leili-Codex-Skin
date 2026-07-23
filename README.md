@@ -12,6 +12,10 @@
 
 APP 会自动跟随 macOS 系统语言，也可以随时点击顶部的 `中文 / EN` 按钮切换。
 
+`1.2.7` 为多数主题加入与人物、车辆、黑洞或静物相匹配的循环动态伙伴；人物执行轻微动作而非整体漂浮，黑洞高光沿事件视界循环，车辆保持完整。模型档位拉条也会自动采用当前主题配色。一笔千山、霓虹仰望和赛博朋克·蓝夜守望按设计保持无宠物。
+
+动态伙伴属于新版运行引擎。要获得完整效果，请重新下载并安装 `1.2.7` APP；只更新主题包不会升级旧引擎。
+
 `1.2.3` 新增 **Claude 原生** 暖白主题：包含本机 Token 活动热力图、`All / 30d / 7d` 区间切换、每日悬停详情与动态像素宠物。统计只在皮肤启动或重新应用时读取，不上传会话内容；公开预览使用示例数据。
 
 `1.2.2` 新增 2560×1440 等高屏窗口适配：主题横幅会随可用高度平滑扩展，卡片和输入框保持在主要视觉区域；1080p 与紧凑窗口布局保持不变。
@@ -55,7 +59,7 @@ APP 会自动跟随 macOS 系统语言，也可以随时点击顶部的 `中文 
 ## 下载与安装
 
 1. 安装并至少启动一次官方 Codex macOS 桌面端。
-2. 从 [Releases](https://github.com/Raven7979/Leili-Codex-Skin/releases/latest) 下载 `Leili-Codex-Skin-1.2.3.zip`。
+2. 从 [Releases](https://github.com/Raven7979/Leili-Codex-Skin/releases/latest) 下载 `Leili-Codex-Skin-1.2.7.zip`。
 3. 解压后双击“安装 Leili Codex Skin.command”；首次运行若被 macOS 拦截，请右键选择“打开”。
 4. 打开 `Leili Codex Skin.app`，在“雷厉的主题中心”选择主题并点击“应用主题”。
 5. 点击“启动主题版 Codex”进入主题界面；需要退出时点击“恢复官方界面”。
@@ -94,7 +98,7 @@ The download currently includes 17 themes. The 16 public previews above were cap
 ### Install and use
 
 1. Install and launch the official Codex macOS app at least once.
-2. Download `Leili-Codex-Skin-1.2.3.zip` from [Releases](https://github.com/Raven7979/Leili-Codex-Skin/releases/latest).
+2. Download `Leili-Codex-Skin-1.2.7.zip` from [Releases](https://github.com/Raven7979/Leili-Codex-Skin/releases/latest).
 3. Unzip it and double-click `安装 Leili Codex Skin.command`. If macOS blocks it, right-click and choose **Open**.
 4. Open `Leili Codex Skin.app`, choose a theme, and click **应用主题 / Apply Theme**.
 5. Click **启动主题版 Codex / Launch Themed Codex**. Use **恢复官方界面 / Restore Official UI** whenever you want to return to the original interface.
@@ -104,6 +108,10 @@ Use **验证主题 / Verify Theme** to validate the active theme and create a ve
 macOS 12 or later is supported. The app uses the signed Node.js runtime bundled with the official Codex app and does not redistribute the official app or runtime.
 
 The interface follows the macOS system language automatically. You can also switch languages at any time with the `中文 / EN` button at the top.
+
+Version `1.2.7` adds looping, theme-matched companions based on each theme's character, vehicle, black hole, or object. Characters perform small grounded actions instead of floating, the black-hole highlight orbits its event horizon, and the vehicle remains fully visible. Model-level sliders now inherit each theme's palette. Ink Mountains, Neon Reverie, and Cyberpunk Blue Night Watch intentionally remain companion-free.
+
+Animated companions are an engine feature. Download and install the `1.2.7` app for the complete update; installing only the theme pack does not upgrade an older engine.
 
 Version `1.2.3` adds the warm Claude Native theme with local token activity, `All / 30d / 7d` filters, per-day hover details, and an animated pixel pet. Statistics are read only when the skin starts or is reapplied; conversation content is never uploaded, and the public preview uses sample data.
 

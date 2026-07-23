@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "themes": {
-    "version": "2026.07.21.1",
-    "publishedAt": "2026-07-21T03:27:22.166Z",
-    "notes": "新增 Claude 原生主题、本机 Token 活动统计、区间筛选与动态像素宠物。Adds the Claude Native theme with local token activity, range filters, and an animated pixel pet.",
-    "url": "https://github.com/Raven7979/Leili-Codex-Skin/releases/download/v1.2.3/Leili-Codex-Themes-2026.07.21.1.zip",
-    "sha256": "12fddefea33f40e7174cd644c2d55caa90806509e169a49c7eaa3b1d2dc88226",
-    "sizeBytes": 24237239,
+    "version": "2026.07.23.1",
+    "publishedAt": "2026-07-23T05:11:44.736Z",
+    "notes": "新增主题匹配的循环动态伙伴、完整车辆与黑洞动画，并让模型档位拉条自动匹配每套主题配色。Adds theme-matched animated companions, complete vehicle and black-hole motion, plus theme-aware model sliders.",
+    "url": "https://github.com/Raven7979/Leili-Codex-Skin/releases/download/v1.2.7/Leili-Codex-Themes-2026.07.23.1.zip",
+    "sha256": "022468f8e9d2c856ea69c922e41472f1db231a7d79abdc77b5d6980c95d9c57e",
+    "sizeBytes": 26299748,
     "themeCount": 17
   }
 }

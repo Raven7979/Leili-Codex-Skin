@@ -3,7 +3,7 @@
   "themes": {
     "version": "2026.07.23.1",
     "publishedAt": "2026-07-23T05:11:44.736Z",
-    "notes": "新增主题匹配的循环动态伙伴、完整车辆与黑洞动画，并让模型档位拉条自动匹配每套主题配色。Adds theme-matched animated companions, complete vehicle and black-hole motion, plus theme-aware model sliders.",
+    "notes": "1.2.7 动画特色：人物以主题动作循环，不整体漂浮、不加背后扫光；复活岛石像抬头低头，黑洞高光沿事件视界环绕，完整车辆带轻微引擎振动和速度线，Zen 冥想呼吸并扩散涟漪。模型档位拉条同步主题色。Animation highlights: grounded character actions without sweeping backlight, Moai head movement, orbiting black-hole light, a complete car with restrained engine motion, Zen breathing ripples, and theme-aware model sliders.",
     "url": "https://github.com/Raven7979/Leili-Codex-Skin/releases/download/v1.2.7/Leili-Codex-Themes-2026.07.23.1.zip",
     "sha256": "022468f8e9d2c856ea69c922e41472f1db231a7d79abdc77b5d6980c95d9c57e",
     "sizeBytes": 26299748,

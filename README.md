@@ -12,7 +12,15 @@
 
 APP 会自动跟随 macOS 系统语言，也可以随时点击顶部的 `中文 / EN` 按钮切换。
 
-`1.2.7` 为多数主题加入与人物、车辆、黑洞或静物相匹配的循环动态伙伴；人物执行轻微动作而非整体漂浮，黑洞高光沿事件视界循环，车辆保持完整。模型档位拉条也会自动采用当前主题配色。一笔千山、霓虹仰望和赛博朋克·蓝夜守望按设计保持无宠物。
+### 1.2.7 动画特色
+
+`1.2.7` 为多数主题加入与人物、车辆、黑洞或静物相匹配的右上角循环动态伙伴，并针对主题内容分别设计动作：
+
+- 人物不再整体上下漂浮，也不在背后播放扫光。晓会做披风式起势，Chaos Spark 有侧身小动作，读书猫低头阅读，Cyber Oracle 抬头观察，财神作揖、潮财神招手，梅西亲吻奖杯，三刀流挥刀，SHE 轻微调整姿态。
+- Easter Islands 石像会缓慢抬头、低头；Zen 以冥想呼吸配合扩散涟漪；Claude 像素宠物会眨眼和迈步。
+- 奇点黑洞本体保持稳定，仅让高光沿事件视界持续环绕；霓虹镜驰保留完整车身，并加入轻微引擎振动和速度线。
+- 所有动作均自动循环，并支持 macOS“减少动态效果”设置。模型档位拉条的轨道、圆点和滑块也会自动匹配当前主题配色。
+- 一笔千山、霓虹仰望和赛博朋克·蓝夜守望按设计保持无宠物。
 
 动态伙伴属于新版运行引擎。要获得完整效果，请重新下载并安装 `1.2.7` APP；只更新主题包不会升级旧引擎。
 
@@ -109,7 +117,15 @@ macOS 12 or later is supported. The app uses the signed Node.js runtime bundled 
 
 The interface follows the macOS system language automatically. You can also switch languages at any time with the `中文 / EN` button at the top.
 
-Version `1.2.7` adds looping, theme-matched companions based on each theme's character, vehicle, black hole, or object. Characters perform small grounded actions instead of floating, the black-hole highlight orbits its event horizon, and the vehicle remains fully visible. Model-level sliders now inherit each theme's palette. Ink Mountains, Neon Reverie, and Cyberpunk Blue Night Watch intentionally remain companion-free.
+### Version 1.2.7 animation highlights
+
+Version `1.2.7` adds looping, theme-matched companions to the upper-right corner of the composer, with motion designed around each theme:
+
+- Characters use small grounded actions instead of floating, with no sweeping backlight behind them. Akatsuki uses a cloak-like stance, Chaos Spark makes a subtle side gesture, the reading cat leans into its book, Cyber Oracle looks upward, the two fortune gods bow or wave, Messi kisses the trophy, the three-sword character slashes, and SHE shifts pose.
+- The Easter Islands statue slowly raises and lowers its head; Zen breathes in meditation with a soft expanding ripple; the Claude pixel pet blinks and steps.
+- The black hole stays fixed while its highlight circles the event horizon. Neon Drift keeps the full car visible and adds restrained engine vibration and speed lines.
+- Every motion loops automatically and respects macOS Reduce Motion. The model-level slider track, dots, and thumb also inherit the active theme palette.
+- Ink Mountains, Neon Reverie, and Cyberpunk Blue Night Watch intentionally remain companion-free.
 
 Animated companions are an engine feature. Download and install the `1.2.7` app for the complete update; installing only the theme pack does not upgrade an older engine.
 
